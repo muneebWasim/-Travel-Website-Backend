@@ -1,0 +1,18 @@
+{
+    "1": {
+        "msg": {
+          "EN": "Error occured. Please try again."
+        }
+    },
+    "2": {
+      "msg": {
+        "EN": "User is not authenticated."
+      }
+    },
+    "3": {
+      "msg": {
+        "EN": "No flights found."
+      }
+    }
+
+}
